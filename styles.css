@@ -1,0 +1,12 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card {
+  max-width: 500px;
+  margin: auto;
+}
+.estudio-section {
+  text-align: center;
+  margin-top: 50px;
+}
